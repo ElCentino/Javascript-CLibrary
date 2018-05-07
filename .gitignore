@@ -11,12 +11,12 @@
 /My-React-App/lesson-1/node_modules
 /Nock-Server/node_modules
 /JS_Fader
-/Nodejs/Express-App/node_modules
-/Nodejs/Express-App/.git
+/Nodejs/Express-App/
 /Nodejs/node_modules
-/Nodejs/oldjs
 /Nodejs/public
-/Nodejs/public/.git
+/Nodejs/README.md
+/Nodejs/lib
+/Nodejs/test
 /React
 /Scripting
 /second-react-app/node_modules
